@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "animate.css@4.1.1",
+      "destination": "dist/animate.css@4.1.1",
+      "files": [
+        "animate.min.css",
+        "LICENSE"
+      ]
+    }
+  ]
+}
